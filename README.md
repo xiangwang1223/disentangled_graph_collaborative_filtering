@@ -1,2 +1,2 @@
-# disentangled_graph_collaborative_filtering
+# Disentangled Graph Collaborative Filtering
 Disentagnled Graph Collaborative Filtering, SIGIR2020
